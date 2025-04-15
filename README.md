@@ -1,14 +1,10 @@
-# computervision
+# Computer Vision
 ```mermaid
-graph LR;
-    A[Read Image] --> B[Convert to Grayscale]
-    B --> C[Apply Otsu's Threshold]
-    C --> D[Generate Binary Image]
-    D --> E[Display or Save Image]
+graph TD;
+    A[01Binarization Methods] --> B[02CLAHE]
 ```
 
-
-Heading
+<!-- Heading
 =
 Subheading
 -
@@ -37,9 +33,4 @@ ___
 456
 - 4
 - 5
-- 6
--   
-
-
-
-
+- 6 -->
