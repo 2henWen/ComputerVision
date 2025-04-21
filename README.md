@@ -1,8 +1,11 @@
 # Computer Vision
-```mermaid
-graph TD;
-    A[01Binarization Methods] --> B[02CLAHE]
-```
+gantt
+    title 项目计划
+    dateFormat  YYYY-MM-DD
+    section Binarization Methods
+    01Binarization Methods :a1, 2023-01-01, 10d
+    02CLAHE :after a1, 5d
+
 
 <!-- Heading
 =
