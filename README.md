@@ -1,8 +1,8 @@
 # Computer Vision
-```mermaid
-graph TD;
-    A[01Binarization Methods] --> B[02CLAHE]
-```
+## 01Binarization Methods
+## 02CLAHE
+## 03Number of Yarns
+
 
 <!-- Heading
 =
